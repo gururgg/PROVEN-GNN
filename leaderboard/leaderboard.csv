@@ -1,3 +1,4 @@
 username,timestamp_utc,team,run_id,type,model,macro_f1,accuracy,precision,recall
 Muhammad0isah,2026-03-05 11:32:20 UTC,Muhammad Isah,gat_v2,human,GAT,0.839366,0.892283,0.811475,0.692308
 idrees11,2026-03-06 07:27:38 UTC,Mohammad Idrees Bhat,example_run_id,human,GAT,0.841399,0.889068,0.768116,0.741259
+jawa-23,2026-03-07 14:40:18 UTC,Jawa Habib,1,human,GAT,0.842985,0.885852,0.733766,0.79021
